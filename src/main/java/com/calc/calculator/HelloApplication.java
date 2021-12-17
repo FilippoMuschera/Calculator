@@ -24,3 +24,5 @@ public class HelloApplication extends Application {
         launch();
     }
 }
+
+//SonarCloud Analysis: https://sonarcloud.io/summary/overall?id=FilippoMuschera_Calculator
