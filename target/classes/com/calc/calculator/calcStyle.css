@@ -1,0 +1,23 @@
+.label {
+    -fx-background-color: #E5E5E5;
+    -fx-font-family: Roboto;
+    -fx-font-size: 27;
+
+}
+
+.button {
+    -fx-font-family: Roboto;
+    -fx-font-size: 20;
+}
+
+.button:hover {
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+    -fx-scale-z: 1.05;
+}
+
+.button:pressed {
+    -fx-scale-x: 1;
+    -fx-scale-y: 1;
+    -fx-scale-z: 1;
+}
